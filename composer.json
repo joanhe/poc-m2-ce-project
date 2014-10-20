@@ -2,7 +2,7 @@
     "name": "joanhe/poc-m2-ce-project",
     "description": "Magento2 Community Edition Project",
     "require": {
-        "buskamuza/magento2-skeleton": "dev-master",
+        "magento/poc-m2-community-edition": "dev-master",
         "zendframework/zend-stdlib": "2.0.3",
         "magento/module-admin-notification": "0.1.0-alpha99",
         "magento/module-authorization": "0.1.0-alpha99",
