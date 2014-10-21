@@ -107,10 +107,6 @@
             "url": "http://packages.magento.com/"
         }
     ],
-    "extra": {
-        "magento-root-dir": "magento2",
-        "magento-deploystrategy": "copy"
-    },
     "minimum-stability": "dev",
     "config": {
         "process-timeout": 600
