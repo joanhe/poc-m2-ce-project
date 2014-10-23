@@ -2,7 +2,7 @@
     "name": "joanhe/poc-m2-ce-project",
     "description": "Magento2 Community Edition Project",
     "type": "project",
-    "version": "0.1.0-alpha95",
+    "version": "0.1.0-alpha96",
     "require": {
         "magento/poc-m2-community-edition": "dev-master",
         "magento/magento-composer-installer": "*",
