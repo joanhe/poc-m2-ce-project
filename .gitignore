@@ -1,0 +1,13 @@
+/app
+/dev
+/lib
+/pub
+/setup
+/var
+/vendor
+/.idea
+/*
+!composer.json
+!.gitignore
+!composer.lock
+!README.md
