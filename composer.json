@@ -110,5 +110,12 @@
     "minimum-stability": "dev",
     "config": {
         "process-timeout": 600
+    },
+    "extra": {
+        "magento-root-dir": "../magento2",
+        "magento-deploystrategy": "copy",
+        "magento-deploystrategy-overwrite": {
+            "magento/language-de_de": "symlink"
+        }
     }
 }
