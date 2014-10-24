@@ -11,3 +11,5 @@
 !.gitignore
 !composer.lock
 !README.md
+!index.php
+!.htaccess
