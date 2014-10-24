@@ -112,10 +112,9 @@
         "process-timeout": 600
     },
     "extra": {
-        "magento-root-dir": "../magento2",
-        "magento-deploystrategy": "copy",
+        "magento-deploystrategy": "symlink",
         "magento-deploystrategy-overwrite": {
-            "magento/language-de_de": "symlink"
+            "magento/language-de_de": "copy"
         }
     }
 }
