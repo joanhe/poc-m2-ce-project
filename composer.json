@@ -107,5 +107,9 @@
             "url": "http://packages.magento.com/"
         }
     ],
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "minimum-stability": "dev"
 }
