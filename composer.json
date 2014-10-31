@@ -4,8 +4,8 @@
     "type": "project",
     "version": "0.1.0-alpha96",
     "require": {
+        "magento/magento-composer-installer": "*",
         "magento/poc-m2-community-edition": "dev-master",
-        "zendframework/zend-stdlib": "2.0.3",
         "magento/module-admin-notification": "self.version",
         "magento/module-authorization": "self.version",
         "magento/module-authorizenet": "self.version",
